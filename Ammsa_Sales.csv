@@ -1,0 +1,169 @@
+Order ID,Order Date,Customer Name,City,Product,Pack Size,Unit Price,Quantity,Total Price,Sales Representative,Courier,Expense Type,Expense Amount,Total Cost,Amount Paid,Outstanding Balance,Status
+1,1/1/2025,M/S Juno Poultry Service Ranipur,Ranipur,Gen-Alox,ltr,9000,30,270000,Ali Ahmed,Local Transport,Courier Charges,3000,273000,272345,655,Unpaid
+2,1/1/2025,HS farm tandojam,Tandojam,Mega-L,ltr,5493,1,5493,,,Courier Charges,1000,6493,6290,203,Unpaid
+3,1/1/2025,Bismillah poultry kotri,Kotri,Trusim Nu,ltr,9500,3,28500,Kashif,M&P,Courier Charges,1000,29500,30471,-971,Paid
+4,1/2/2025,Avion Pharma Hyderabad,Hyderabad,Boost-E,5 ltr,6159,13,80067,,,Fuel Cost,1000,81067,80067,1000,Unpaid
+5,1/2/2025,SHAHID PIRZADA NAWABSHAH,Nawabshah,Bromo Shine,5 ltr,4500,25,112500,,TCS,Courier Charges,2500,115000,115965,-965,Paid
+6,1/2/2025,Avion Pharma Hyderabad,Hyderabad,Boost-E,5 ltr,6159,6,36954,,,Fuel Cost,1000,37954,37725,229,Unpaid
+7,1/3/2025,HS farm tandojam,Tandojam,Mega-L,ltr,5493,6,32958,Atif,,,1000,33958,27846,6112,Unpaid
+8,1/3/2025,Raza Protein Mehrabpur,Mehrabpur,Trusim Nu,ltr,9500,25,237500,Atif,M&P,Courier Charges,3000,240500,56400,184100,Unpaid
+9,1/3/2025,M/S Juno Poultry Service Ranipur,Ranipur,Gen-Alox,5 ltr,9000,9,81000,,Leopard,Courier Charges,3000,84000,83014,986,Unpaid
+10,1/4/2025,HS feed hyderabad,Hyderabad,Mega-L,ltr,5493,29,159297,,M&P,Fuel Cost,1000,160297,137378,22919,Unpaid
+11,1/4/2025,Bismillah poultry kotri,Kotri,Trusim Nu,ltr,9500,12,114000,,,Courier Charges,1000,115000,114000,1000,Unpaid
+12,1/4/2025,Shahid PZ P/S Nawabshah,Nawabshah,Trusim Nu,ltr,9500,4,38000,Atif,,,2500,40500,9565,30935,Unpaid
+13,1/5/2025,Bismillah poultry kotri,Kotri,Gen-Alox,ltr,9000,16,144000,Ali Ahmed,Leopard,Courier Charges,1000,145000,146106,-1106,Paid
+14,1/5/2025,M/S Juno Poultry Service Ranipur,Ranipur,AD3E Plus,ltr,5801,1,5801,,,,3000,8801,6819,1982,Unpaid
+15,1/5/2025,HS farm tandojam,Tandojam,Mega-L,5 ltr,5493,21,115353,Kashif,,Courier Charges,1000,116353,117280,-927,Paid
+16,1/6/2025,SHAHID PIRZADA NAWABSHAH,Nawabshah,Mega-L,5 ltr,5493,22,120846,Kashif,,Courier Charges,2500,123346,123346,0,Unpaid
+17,1/6/2025,HS feed hyderabad,Hyderabad,Gen-Alox,5 ltr,9000,23,207000,Ali Ahmed,,Fuel Cost,1000,208000,207000,1000,Unpaid
+18,1/6/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Biotonic,5 ltr,5771,24,138504,Atif,TCS,Courier Charges,1500,140004,140153,-149,Paid
+19,1/7/2025,Dr. sha que Rajput Tando Jam,Tandojam,Boost-E,ltr,6159,6,36954,,TCS,Courier Charges,1000,37954,36954,1000,Unpaid
+20,1/7/2025,Bismillah poultry kotri,Kotri,Boost-E,5 ltr,6159,25,153975,Farrukh,M&P,Courier Charges,1000,154975,153975,1000,Unpaid
+21,1/7/2025,M/S Juno Poultry Service Ranipur,Ranipur,Mega-L,ltr,5493,23,126339,Kashif,M&P,Courier Charges,3000,129339,121742,7597,Unpaid
+22,1/8/2025,M/S Hafeez Poultry Medicine Theri,Theri,Biotonic,5 ltr,5771,13,75023,Atif,,,3000,78023,75023,3000,Unpaid
+23,1/8/2025,HS farm tandojam,Tandojam,Boost-E,ltr,6159,10,61590,Atif,Leopard,Courier Charges,1000,62590,27936,34654,Unpaid
+24,1/8/2025,Dr. sha que Rajput Tando Jam,Tandojam,Bromo Shine,5 ltr,4500,11,49500,Kashif,,Courier Charges,1000,50500,51956,-1456,Paid
+25,1/9/2025,HS feed hyderabad,Hyderabad,Bromo Shine,5 kg,4500,13,58500,Ali Ahmed,TCS,Fuel Cost,1000,59500,58903,597,Unpaid
+26,1/9/2025,Avion Pharma Hyderabad,Hyderabad,Trusim Nu,5 kg,9500,29,275500,Atif,M&P,Fuel Cost,1000,276500,276205,295,Unpaid
+27,1/9/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Trusim Nu,ltr,9500,10,95000,Ali Ahmed,,Courier Charges,1500,96500,97102,-602,Paid
+28,1/10/2025,SHAHID PIRZADA NAWABSHAH,Nawabshah,Mega-L,ltr,5493,1,5493,Atif,Leopard,Courier Charges,2500,7993,5493,2500,Unpaid
+29,1/10/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Gen-Alox,5 ltr,9000,20,180000,Ali Ahmed,,,1500,181500,181207,293,Unpaid
+30,1/10/2025,Qasim Umer Poultry Service Mehrabpur,Mehrabpur,Bromo Shine,ltr,4500,1,4500,Ali Ahmed,M&P,Courier Charges,3000,7500,6294,1206,Unpaid
+31,1/11/2025,Sindh Poultry Service Thehri,Thehri,Gen-Alox,ltr,9000,30,270000,Atif,Leopard,Courier Charges,3000,273000,136424,136576,Unpaid
+32,1/11/2025,Dr. sha que Rajput Tando Jam,Tandojam,Mega-L,5 ltr,5493,5,27465,Kashif,TCS,Courier Charges,1000,28465,28760,-295,Paid
+33,1/11/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Gen-Alox,5 kg,9000,23,207000,Farrukh,,Courier Charges,1500,208500,209577,-1077,Paid
+34,1/12/2025,Bismillah poultry kotri,Kotri,Bromo Shine,5 ltr,4500,18,81000,Farrukh,Leopard,Courier Charges,1000,82000,83327,-1327,Paid
+35,1/12/2025,Shahid PZ P/S Nawabshah,Nawabshah,Gen-Alox,5 ltr,9000,16,144000,Kashif,M&P,Courier Charges,2500,146500,146913,-413,Paid
+36,1/12/2025,Bismillah poultry kotri,Kotri,Biotonic,ltr,5771,5,28855,Ali Ahmed,TCS,Courier Charges,1000,29855,31454,-1599,Paid
+37,1/13/2025,M/S Juno Poultry Service Ranipur,Ranipur,Gen-Alox,ltr,9000,17,153000,Farrukh,TCS,Courier Charges,3000,156000,153000,3000,Unpaid
+38,1/13/2025,Soomro poultry farm matiari,Matiari,Gen-Alox,5 ltr,9000,27,243000,,,,1500,244500,245972,-1472,Paid
+39,1/13/2025,Soomro poultry farm matiari,Matiari,Gen-Alox,5 ltr,9000,26,234000,,M&P,Courier Charges,1500,235500,237384,-1884,Paid
+40,1/14/2025,Shahid PZ P/S Nawabshah,Nawabshah,Trusim Nu,5 ltr,9500,17,161500,Farrukh,Leopard,Courier Charges,2500,164000,164018,-18,Paid
+41,1/14/2025,Dr. sha que Rajput Tando Jam,Tandojam,AD3E Plus,5 kg,5801,30,174030,Ali Ahmed,TCS,Courier Charges,1000,175030,176226,-1196,Paid
+42,1/14/2025,SHAHID PIRZADA NAWABSHAH,Nawabshah,Mega-L,ltr,5493,28,153804,Atif,Leopard,Courier Charges,2500,156304,156104,200,Unpaid
+43,1/15/2025,Raza Protein Mehrabpur,Mehrabpur,AD3E Plus,ltr,5801,14,81214,Ali Ahmed,,Courier Charges,3000,84214,83421,793,Unpaid
+44,1/15/2025,Mustafa Poultry Service MirpurKhas,Mirpurkhas,AD3E Plus,5 ltr,5801,25,145025,Ali Ahmed,M&P,Courier Charges,2000,147025,146844,181,Unpaid
+45,1/15/2025,Shahid PZ P/S Nawabshah,Nawabshah,Boost-E,ltr,6159,18,110862,Ali Ahmed,,,2500,113362,88313,25049,Unpaid
+46,1/16/2025,Raza Protein Mehrabpur,Mehrabpur,Bromo Shine,ltr,4500,6,27000,Atif,,,3000,30000,27000,3000,Unpaid
+47,1/16/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Mega-L,ltr,5493,14,76902,Kashif,,Courier Charges,1500,78402,76902,1500,Unpaid
+48,1/16/2025,Mustafa Poultry Service MirpurKhas,Mirpurkhas,AD3E Plus,5 ltr,5801,16,92816,Ali Ahmed,M&P,Courier Charges,2000,94816,94340,476,Unpaid
+49,1/17/2025,SHAHID PIRZADA NAWABSHAH,Nawabshah,Boost-E,5 ltr,6159,7,43113,Atif,Leopard,Courier Charges,2500,45613,43113,2500,Unpaid
+50,1/17/2025,Shahid PZ P/S Nawabshah,Nawabshah,AD3E Plus,ltr,5801,12,69612,Farrukh,,,2500,72112,22845,49267,Unpaid
+51,1/17/2025,Raza Protein Mehrabpur,Mehrabpur,Boost-E,5 ltr,6159,19,117021,Atif,Leopard,Courier Charges,3000,120021,119610,411,Unpaid
+52,1/18/2025,Qasim Umer Poultry Service Mehrabpur,Mehrabpur,AD3E Plus,5 ltr,5801,14,81214,Ali Ahmed,M&P,Courier Charges,3000,84214,83125,1089,Unpaid
+53,1/18/2025,HS feed hyderabad,Hyderabad,Biotonic,5 ltr,5771,9,51939,Farrukh,Leopard,Fuel Cost,1000,52939,52597,342,Unpaid
+54,1/18/2025,HS farm tandojam,Tandojam,Gen-Alox,5 kg,9000,12,108000,,TCS,Courier Charges,1000,109000,109437,-437,Paid
+55,1/19/2025,Sindh Poultry Service Thehri,Thehri,Bromo Shine,5 ltr,4500,5,22500,Ali Ahmed,TCS,Courier Charges,3000,25500,24206,1294,Unpaid
+56,1/19/2025,Shahid PZ P/S Nawabshah,Nawabshah,Mega-L,5 ltr,5493,19,104367,Ali Ahmed,M&P,Courier Charges,2500,106867,104367,2500,Unpaid
+57,1/19/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,AD3E Plus,ltr,5801,26,150826,Atif,TCS,Courier Charges,1500,152326,77621,74705,Unpaid
+58,1/20/2025,Bismillah poultry kotri,Kotri,Trusim Nu,5 ltr,9500,28,266000,Farrukh,M&P,Courier Charges,1000,267000,267967,-967,Paid
+59,1/20/2025,Qasim Umer Poultry Service Mehrabpur,Mehrabpur,Biotonic,5 ltr,5771,20,115420,Atif,M&P,Courier Charges,3000,118420,115420,3000,Unpaid
+60,1/20/2025,M/S Juno Poultry Service Ranipur,Ranipur,Biotonic,ltr,5771,9,51939,,Leopard,Courier Charges,3000,54939,28319,26620,Unpaid
+61,1/21/2025,HS feed hyderabad,Hyderabad,Mega-L,ltr,5493,24,131832,Ali Ahmed,,Fuel Cost,1000,132832,131832,1000,Unpaid
+62,1/21/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Trusim Nu,5 ltr,9500,12,114000,,TCS,Courier Charges,1500,115500,115946,-446,Paid
+63,1/21/2025,HS feed hyderabad,Hyderabad,Mega-L,ltr,5493,19,104367,Ali Ahmed,M&P,Fuel Cost,1000,105367,77194,28173,Unpaid
+64,1/22/2025,HS farm tandojam,Tandojam,Bromo Shine,5 ltr,4500,3,13500,,Leopard,Courier Charges,1000,14500,15896,-1396,Paid
+65,1/22/2025,HS feed hyderabad,Hyderabad,Trusim Nu,ltr,9500,27,256500,Atif,Leopard,Fuel Cost,1000,257500,57084,200416,Unpaid
+66,1/22/2025,Bismillah poultry kotri,Kotri,Biotonic,ltr,5771,7,40397,Kashif,,,1000,41397,36505,4892,Unpaid
+67,1/23/2025,Avion Pharma Hyderabad,Hyderabad,Trusim Nu,ltr,9500,25,237500,,Leopard,Fuel Cost,1000,238500,63121,175379,Unpaid
+68,1/23/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Biotonic,5 ltr,5771,19,109649,Kashif,TCS,Courier Charges,1500,111149,109649,1500,Unpaid
+69,1/23/2025,M/S Juno Poultry Service Ranipur,Ranipur,Biotonic,5 ltr,5771,24,138504,Ali Ahmed,M&P,Courier Charges,3000,141504,141087,417,Unpaid
+70,1/24/2025,Mustafa Poultry Service MirpurKhas,Mirpurkhas,AD3E Plus,ltr,5801,24,139224,Kashif,TCS,Courier Charges,2000,141224,117866,23358,Unpaid
+71,1/24/2025,SHAHID PIRZADA NAWABSHAH,Nawabshah,Biotonic,5 ltr,5771,21,121191,,TCS,Courier Charges,2500,123691,124386,-695,Paid
+72,1/24/2025,Mustafa Poultry Service MirpurKhas,Mirpurkhas,Mega-L,5 kg,5493,19,104367,Farrukh,M&P,Courier Charges,2000,106367,106583,-216,Paid
+73,1/25/2025,HS farm tandojam,Tandojam,Gen-Alox,5 ltr,9000,26,234000,Atif,M&P,Courier Charges,1000,235000,234000,1000,Unpaid
+74,1/25/2025,HS farm tandojam,Tandojam,Mega-L,5 ltr,5493,19,104367,,TCS,Courier Charges,1000,105367,106243,-876,Paid
+75,1/25/2025,Sindh Poultry Service Thehri,Thehri,Biotonic,5 ltr,5771,24,138504,Atif,,,3000,141504,140828,676,Unpaid
+76,1/26/2025,Dr. sha que Rajput Tando Jam,Tandojam,Biotonic,ltr,5771,28,161588,Ali Ahmed,M&P,Courier Charges,1000,162588,164083,-1495,Paid
+77,1/26/2025,HS feed hyderabad,Hyderabad,Gen-Alox,ltr,9000,23,207000,,Leopard,Fuel Cost,1000,208000,44990,163010,Unpaid
+78,1/26/2025,Soomro poultry farm matiari,Matiari,Trusim Nu,ltr,9500,22,209000,Atif,,,1500,210500,60862,149638,Unpaid
+79,1/27/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Mega-L,ltr,5493,18,98874,Kashif,M&P,Courier Charges,1500,100374,101453,-1079,Paid
+80,1/27/2025,Avion Pharma Hyderabad,Hyderabad,Trusim Nu,ltr,9500,14,133000,Atif,TCS,Fuel Cost,1000,134000,52452,81548,Unpaid
+81,1/27/2025,Raza Protein Mehrabpur,Mehrabpur,Gen-Alox,ltr,9000,27,243000,Farrukh,TCS,Courier Charges,3000,246000,106477,139523,Unpaid
+82,1/28/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Mega-L,ltr,5493,17,93381,Atif,TCS,Courier Charges,1500,94881,61911,32970,Unpaid
+83,1/28/2025,Dr. sha que Rajput Tando Jam,Tandojam,Mega-L,5 kg,5493,7,38451,Kashif,M&P,Courier Charges,1000,39451,40238,-787,Paid
+84,1/28/2025,Avion Pharma Hyderabad,Hyderabad,Gen-Alox,5 ltr,9000,14,126000,Atif,M&P,Fuel Cost,1000,127000,126749,251,Unpaid
+85,1/29/2025,Qasim Umer Poultry Service Mehrabpur,Mehrabpur,Gen-Alox,5 ltr,9000,29,261000,Kashif,M&P,Courier Charges,3000,264000,262483,1517,Unpaid
+86,1/29/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Bromo Shine,5 ltr,4500,29,130500,,TCS,Courier Charges,1500,132000,132009,-9,Paid
+87,1/29/2025,Sindh Poultry Service Thehri,Thehri,Gen-Alox,ltr,9000,17,153000,,M&P,Courier Charges,3000,156000,154354,1646,Unpaid
+88,1/30/2025,Soomro poultry farm matiari,Matiari,Gen-Alox,ltr,9000,12,108000,Farrukh,M&P,Courier Charges,1500,109500,56954,52546,Unpaid
+89,1/30/2025,Sindh Poultry Service Thehri,Thehri,Gen-Alox,5 ltr,9000,12,108000,,Leopard,Courier Charges,3000,111000,109306,1694,Unpaid
+90,1/30/2025,Soomro poultry farm matiari,Matiari,AD3E Plus,ltr,5801,26,150826,,Leopard,Courier Charges,1500,152326,150826,1500,Unpaid
+91,1/31/2025,SHAHID PIRZADA NAWABSHAH,Nawabshah,Trusim Nu,5 ltr,9500,11,104500,Atif,M&P,Courier Charges,2500,107000,104500,2500,Unpaid
+92,1/31/2025,M/S Hafeez Poultry Medicine Theri,Theri,Bromo Shine,ltr,4500,12,54000,Atif,,,3000,57000,26610,30390,Unpaid
+93,1/31/2025,M/S Hafeez Poultry Medicine Theri,Theri,Mega-L,ltr,5493,21,115353,,M&P,Courier Charges,3000,118353,70309,48044,Unpaid
+94,2/1/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Biotonic,ltr,5771,20,115420,Kashif,TCS,Courier Charges,1500,116920,67126,49794,Unpaid
+95,2/1/2025,Soomro poultry farm matiari,Matiari,Boost-E,5 ltr,6159,15,92385,,TCS,Courier Charges,1500,93885,95598,-1713,Paid
+96,2/1/2025,HS feed hyderabad,Hyderabad,Mega-L,5 ltr,5493,28,153804,Ali Ahmed,TCS,Fuel Cost,1000,154804,154299,505,Unpaid
+97,2/2/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Trusim Nu,5 ltr,9500,14,133000,Farrukh,M&P,Courier Charges,1500,134500,134833,-333,Paid
+98,2/2/2025,Avion Pharma Hyderabad,Hyderabad,Trusim Nu,ltr,9500,24,228000,Kashif,,Fuel Cost,1000,229000,228467,533,Unpaid
+99,2/2/2025,Ramzan Khuhro Gambhat,Gambhat,Boost-E,5 ltr,6159,9,55431,,TCS,Courier Charges,3000,58431,57913,518,Unpaid
+100,2/3/2025,Raza Protein Mehrabpur,Mehrabpur,Boost-E,5 ltr,6159,26,160134,,TCS,Courier Charges,3000,163134,162229,905,Unpaid
+101,2/3/2025,Ramzan Khuhro Gambhat,Gambhat,Biotonic,ltr,5771,9,51939,,,,3000,54939,26090,28849,Unpaid
+102,2/3/2025,Raza Protein Mehrabpur,Mehrabpur,Trusim Nu,5 ltr,9500,14,133000,Kashif,Leopard,Courier Charges,3000,136000,135415,585,Unpaid
+103,2/4/2025,HS farm tandojam,Tandojam,Bromo Shine,5 ltr,4500,19,85500,Ali Ahmed,TCS,Courier Charges,1000,86500,87384,-884,Paid
+104,2/4/2025,M/S Hafeez Poultry Medicine Theri,Theri,Biotonic,ltr,5771,22,126962,Ali Ahmed,M&P,Courier Charges,3000,129962,79966,49996,Unpaid
+105,2/4/2025,Avion Pharma Hyderabad,Hyderabad,AD3E Plus,5 ltr,5801,23,133423,Kashif,M&P,Fuel Cost,1000,134423,133831,592,Unpaid
+106,2/5/2025,HS farm tandojam,Tandojam,Bromo Shine,ltr,4500,11,49500,Atif,,,1000,50500,51883,-1383,Paid
+107,2/5/2025,Qasim Umer Poultry Service Mehrabpur,Mehrabpur,Biotonic,ltr,5771,29,167359,Atif,Leopard,Courier Charges,3000,170359,169404,955,Unpaid
+108,2/5/2025,SHAHID PIRZADA NAWABSHAH,Nawabshah,Trusim Nu,5 ltr,9500,17,161500,Atif,,,2500,164000,125355,38645,Unpaid
+109,2/6/2025,Dr. sha que Rajput Tando Jam,Tandojam,Mega-L,ltr,5493,6,32958,Ali Ahmed,,,1000,33958,21444,12514,Unpaid
+110,2/6/2025,Avion Pharma Hyderabad,Hyderabad,Biotonic,5 ltr,5771,16,92336,,M&P,Fuel Cost,1000,93336,92922,414,Unpaid
+111,2/6/2025,Soomro poultry farm matiari,Matiari,Mega-L,5 ltr,5493,5,27465,,,Courier Charges,1500,28965,29827,-862,Paid
+112,2/7/2025,Qasim Umer Poultry Service Mehrabpur,Mehrabpur,Biotonic,ltr,5771,9,51939,Kashif,M&P,Courier Charges,3000,54939,38929,16010,Unpaid
+113,2/7/2025,Bismillah poultry kotri,Kotri,Boost-E,5 ltr,6159,12,73908,Kashif,,Courier Charges,1000,74908,75466,-558,Paid
+114,2/7/2025,SHAHID PIRZADA NAWABSHAH,Nawabshah,Mega-L,ltr,5493,2,10986,Atif,Leopard,Courier Charges,2500,13486,5462,8024,Unpaid
+115,2/8/2025,HS farm tandojam,Tandojam,Trusim Nu,ltr,9500,7,66500,Farrukh,M&P,Courier Charges,1000,67500,68717,-1217,Paid
+116,2/8/2025,Avion Pharma Hyderabad,Hyderabad,Mega-L,5 ltr,5493,5,27465,Kashif,,Fuel Cost,1000,28465,27907,558,Unpaid
+117,2/8/2025,Mustafa Poultry Service MirpurKhas,Mirpurkhas,AD3E Plus,5 ltr,5801,15,87015,Kashif,Leopard,Courier Charges,2000,89015,88604,411,Unpaid
+118,2/9/2025,HS feed hyderabad,Hyderabad,Trusim Nu,5 ltr,9500,30,285000,Kashif,Self,Fuel Cost,1000,286000,285798,202,Unpaid
+119,2/9/2025,Shahid PZ P/S Nawabshah,Nawabshah,Boost-E,ltr,6159,16,98544,Kashif,M&P,Courier Charges,2500,101044,32126,68918,Unpaid
+120,2/9/2025,Raza Protein Mehrabpur,Mehrabpur,Boost-E,ltr,6159,15,92385,Ali Ahmed,TCS,Courier Charges,3000,95385,92385,3000,Unpaid
+121,2/10/2025,Sindh Poultry Service Thehri,Thehri,Bromo Shine,5 ltr,4500,10,45000,Farrukh,Leopard,Courier Charges,3000,48000,46821,1179,Unpaid
+122,2/10/2025,Mustafa Poultry Service MirpurKhas,Mirpurkhas,AD3E Plus,ltr,5801,3,17403,Atif,M&P,Courier Charges,2000,19403,19690,-287,Paid
+123,2/10/2025,HS farm tandojam,Tandojam,Bromo Shine,5 ltr,4500,27,121500,,,Courier Charges,1000,122500,123508,-1008,Paid
+124,2/11/2025,Ramzan Khuhro Gambhat,Gambhat,Boost-E,5 ltr,6159,21,129339,,M&P,Courier Charges,3000,132339,129339,3000,Unpaid
+125,2/11/2025,Ramzan Khuhro Gambhat,Gambhat,Biotonic,ltr,5771,6,34626,Farrukh,TCS,Courier Charges,3000,37626,23864,13762,Unpaid
+126,2/11/2025,Shahid PZ P/S Nawabshah,Nawabshah,Mega-L,5 ltr,5493,27,148311,,Leopard,Courier Charges,2500,150811,151553,-742,Paid
+127,2/12/2025,Bismillah poultry kotri,Kotri,Boost-E,ltr,6159,18,110862,Ali Ahmed,TCS,Courier Charges,1000,111862,110862,1000,Unpaid
+128,2/12/2025,Avion Pharma Hyderabad,Hyderabad,Boost-E,5 ltr,6159,15,92385,Kashif,Self,Fuel Cost,1000,93385,92996,389,Unpaid
+129,2/12/2025,SHAHID PIRZADA NAWABSHAH,Nawabshah,Trusim Nu,5 kg,9500,25,237500,Atif,M&P,Courier Charges,2500,240000,240357,-357,Paid
+130,2/13/2025,Raza Protein Mehrabpur,Mehrabpur,Biotonic,5 ltr,5771,30,173130,Ali Ahmed,TCS,Courier Charges,3000,176130,174668,1462,Unpaid
+131,2/13/2025,Mustafa Poultry Service MirpurKhas,Mirpurkhas,Boost-E,5 ltr,6159,7,43113,Atif,TCS,Courier Charges,2000,45113,44838,275,Unpaid
+132,2/13/2025,Sindh Poultry Service Thehri,Thehri,Biotonic,5 ltr,5771,7,40397,Ali Ahmed,,,3000,43397,42101,1296,Unpaid
+133,2/14/2025,Soomro poultry farm matiari,Matiari,AD3E Plus,5 kg,5801,11,63811,Kashif,,,1500,65311,65913,-602,Paid
+134,2/14/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,AD3E Plus,ltr,5801,1,5801,Ali Ahmed,M&P,Courier Charges,1500,7301,3719,3582,Unpaid
+135,2/14/2025,HS farm tandojam,Tandojam,AD3E Plus,5 ltr,5801,2,11602,Kashif,,Courier Charges,1000,12602,14157,-1555,Paid
+136,2/15/2025,Dr. sha que Rajput Tando Jam,Tandojam,AD3E Plus,ltr,5801,20,116020,Atif,,,1000,117020,107002,10018,Unpaid
+137,2/15/2025,Dr. sha que Rajput Tando Jam,Tandojam,Gen-Alox,5 ltr,9000,20,180000,Farrukh,Leopard,Courier Charges,1000,181000,182498,-1498,Paid
+138,2/15/2025,Raza Protein Mehrabpur,Mehrabpur,Biotonic,5 ltr,5771,23,132733,Kashif,M&P,Courier Charges,3000,135733,134771,962,Unpaid
+139,2/16/2025,Qasim Umer Poultry Service Mehrabpur,Mehrabpur,AD3E Plus,5 ltr,5801,26,150826,Kashif,Leopard,Courier Charges,3000,153826,152159,1667,Unpaid
+140,2/16/2025,Sindh Poultry Service Thehri,Thehri,Biotonic,ltr,5771,7,40397,Atif,Leopard,Courier Charges,3000,43397,42898,499,Unpaid
+141,2/16/2025,HS farm tandojam,Tandojam,Bromo Shine,5 ltr,4500,4,18000,Ali Ahmed,,,1000,19000,18000,1000,Unpaid
+142,2/17/2025,Raza Protein Mehrabpur,Mehrabpur,Bromo Shine,5 kg,4500,14,63000,Farrukh,Leopard,Courier Charges,3000,66000,65125,875,Unpaid
+143,2/17/2025,Al-Faheem Poultry Services Tando Allahyar,TandoAllahyar,Bromo Shine,ltr,4500,28,126000,Kashif,Leopard,Courier Charges,1500,127500,126000,1500,Unpaid
+144,2/17/2025,HS feed hyderabad,Hyderabad,Boost-E,5 ltr,6159,1,6159,Ali Ahmed,TCS,Fuel Cost,1000,7159,6727,432,Unpaid
+145,2/18/2025,M/S Hafeez Poultry Medicine Theri,Theri,Boost-E,5 ltr,6159,7,43113,Kashif,M&P,Courier Charges,3000,46113,44411,1702,Unpaid
+146,2/18/2025,Dr. sha que Rajput Tando Jam,Tandojam,Gen-Alox,5 ltr,9000,6,54000,Farrukh,TCS,Courier Charges,1000,55000,55691,-691,Paid
+147,2/18/2025,Qasim Umer Poultry Service Mehrabpur,Mehrabpur,Biotonic,5 ltr,5771,29,167359,Ali Ahmed,M&P,Courier Charges,3000,170359,169393,966,Unpaid
+148,2/19/2025,HS farm tandojam,Tandojam,Mega-L,ltr,5493,30,164790,Ali Ahmed,,Courier Charges,1000,165790,166397,-607,Paid
+149,2/19/2025,Avion Pharma Hyderabad,Hyderabad,AD3E Plus,5 ltr,5801,26,150826,Farrukh,Leopard,Fuel Cost,1000,151826,151131,695,Unpaid
+150,2/19/2025,HS farm tandojam,Tandojam,Boost-E,ltr,6159,13,80067,Atif,M&P,Courier Charges,1000,81067,59762,21305,Unpaid
+151,2/20/2025,Qasim Umer Poultry Service Mehrabpur,Mehrabpur,Gen-Alox,5 ltr,9000,2,18000,Atif,TCS,Courier Charges,3000,21000,18000,3000,Unpaid
+152,2/20/2025,Shahid PZ P/S Nawabshah,Nawabshah,Gen-Alox,5 kg,9000,19,171000,Ali Ahmed,TCS,Courier Charges,2500,173500,174323,-823,Paid
+153,2/21/2025,SHAHID PIRZADA NAWABSHAH,Nawabshah,Boost-E,ltr,6159,10,61590,Atif,TCS,Courier Charges,2500,64090,64290,-200,Paid
+154,2/21/2025,HS farm tandojam,Tandojam,AD3E Plus,5 ltr,5801,14,81214,Kashif,TCS,Courier Charges,1000,82214,82782,-568,Paid
+155,2/22/2025,Bismillah poultry kotri,Kotri,Biotonic,5 kg,5771,15,86565,Kashif,Leopard,Courier Charges,1000,87565,88293,-728,Paid
+156,2/22/2025,M/S Juno Poultry Service Ranipur,Ranipur,Mega-L,ltr,5493,12,65916,Farrukh,TCS,Courier Charges,3000,68916,23198,45718,Unpaid
+157,2/23/2025,Qasim Umer Poultry Service Mehrabpur,Mehrabpur,Gen-Alox,ltr,9000,1,9000,Farrukh,Leopard,Courier Charges,3000,12000,10877,1123,Unpaid
+158,2/23/2025,HS farm tandojam,Tandojam,Biotonic,5 ltr,5771,16,92336,Kashif,,Courier Charges,1000,93336,94672,-1336,Paid
+159,2/24/2025,HS feed hyderabad,Hyderabad,AD3E Plus,5 ltr,5801,28,162428,Farrukh,Self,Fuel Cost,1000,163428,162803,625,Unpaid
+160,2/24/2025,Bismillah poultry kotri,Kotri,AD3E Plus,5 ltr,5801,25,145025,Atif,Leopard,Courier Charges,1000,146025,146618,-593,Paid
+161,2/25/2025,Avion Pharma Hyderabad,Hyderabad,Gen-Alox,5 ltr,9000,8,72000,Ali Ahmed,Self,Fuel Cost,1000,73000,72365,635,Unpaid
+162,2/25/2025,Avion Pharma Hyderabad,Hyderabad,Bromo Shine,ltr,4500,2,9000,Ali Ahmed,,,1000,10000,6340,3660,Unpaid
+163,2/26/2025,Bismillah poultry kotri,Kotri,Biotonic,5 ltr,5771,9,51939,Farrukh,TCS,Courier Charges,1000,52939,53502,-563,Paid
+164,2/26/2025,Bismillah poultry kotri,Kotri,Mega-L,5 ltr,5493,9,49437,Kashif,M&P,Courier Charges,1000,50437,51664,-1227,Paid
+165,2/27/2025,SHAHID PIRZADA NAWABSHAH,Nawabshah,AD3E Plus,5 ltr,5801,23,133423,Kashif,,Courier Charges,2500,135923,135923,0,Unpaid
+166,2/27/2025,Raza Protein Mehrabpur,Mehrabpur,Biotonic,ltr,5771,30,173130,Ali Ahmed,,Courier Charges,3000,176130,173130,3000,Unpaid
+167,2/28/2025,Shahid PZ P/S Nawabshah,Nawabshah,Gen-Alox,5 kg,9000,9,81000,Kashif,M&P,Courier Charges,2500,83500,83183,317,Unpaid
+168,2/28/2025,M/S Juno Poultry Service Ranipur,Ranipur,Gen-Alox,5 ltr,9000,20,180000,Ali Ahmed,TCS,Courier Charges,3000,183000,180000,3000,Unpaid
